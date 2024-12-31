@@ -1,4 +1,4 @@
-# Kimbrough\_mEosNb\_preprint
+# Kimbrough-mEosNb-preprint
 
 This repository contains the code required to reproduce the figures in *Kimbrough et al., in prep*
 
